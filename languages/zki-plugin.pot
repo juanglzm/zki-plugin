@@ -1,0 +1,51 @@
+# Copyright (C) 2024 Juan Antonio
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ZKI Plugin 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/zki-plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-23T22:50:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: zki-plugin\n"
+
+#. Plugin Name of the plugin
+msgid "ZKI Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "A basic boilerplate for starting a WordPress plugin that includes custom blocks."
+msgstr ""
+
+#. Author of the plugin
+msgid "Juan Antonio"
+msgstr ""
+
+#: includes/Plugin.php:148
+msgid "Yuna"
+msgstr ""
+
+#: build/blocks/block-dynamic/block.json
+#: src/blocks/block-dynamic/block.json
+msgctxt "block title"
+msgid "Block Dynamic"
+msgstr ""
+
+#: build/blocks/block-dynamic/block.json
+#: build/blocks/block-static/block.json
+#: src/blocks/block-dynamic/block.json
+#: src/blocks/block-static/block.json
+msgctxt "block description"
+msgid "Example block scaffolded with Create Block tool."
+msgstr ""
+
+#: build/blocks/block-static/block.json
+#: src/blocks/block-static/block.json
+msgctxt "block title"
+msgid "Block Static"
+msgstr ""

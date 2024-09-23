@@ -1,0 +1,1 @@
+console.log("Hello World! (from zki-plugin-block-vv block)");
